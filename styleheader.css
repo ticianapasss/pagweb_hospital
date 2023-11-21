@@ -1,10 +1,9 @@
 header {
-    background-color: #84ce7a
+    background-color: #033a7e 
 }
 
 body {
-<<<<<<< Updated upstream
-   background-color:  #033a7e 
+   background-color:  #84ce7a
 }
 
 h1 {
@@ -16,16 +15,7 @@ h2 {
 
 }
 
-p {
-    color: white
-=======
-   background-color:  #bce7b6
-}
 
-footer {
-    background-color: gray;
->>>>>>> Stashed changes
-}
 
 .mitadfooter {
     background-color: #212121;
