@@ -1,8 +1,9 @@
-header {
-    background-color: #7eb4f7;
- 
+
+
+.margengente {
+    margin-left: 700;
 }
 
-.imagenes {
-text-align: center;
-}
+header {
+    background-color: #7eb4f7;
+ }
