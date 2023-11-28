@@ -18,15 +18,17 @@ footer {
 
         margin: 60px;
         margin-top: 300;
+        margin-bottom: 40px;
 
 }
 
 #margengente {
     margin-left: 700px;
+    margin-bottom: 20px;
 }
 
 #margenpolitica {
-    position: relative;
-    margin-top: -300px;
+    margin-bottom: 25px;
+    margin-left: 20px;
 
 }
