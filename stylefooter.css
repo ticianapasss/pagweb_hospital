@@ -14,12 +14,6 @@ footer {
 
 }
 
-.margen4 {
-
-        margin: 60px;
-        margin-bottom: 50px;
-
-}
 
 #margengente {
     margin-left: 700px;
@@ -29,5 +23,20 @@ footer {
 #margenpolitica {
     margin-bottom: 25px;
     margin-left: 20px;
+
+}
+
+.root {
+    margin-bottom: 40px (--marbot);
+}
+
+.margen4 {
+    margin-bottom: 100px;
+    margin-left: 10px;
+}
+
+.margenpolitica {
+margin-bottom: 25px;
+margin-left: 20px;
 
 }
