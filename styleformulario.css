@@ -36,14 +36,14 @@ form {
 
   /* Estilo para el botón de envío */
   input[type="submit"] {
-    background-color: #be3f3f;
+    background-color: #22658b;
     color: white;
     cursor: pointer;
     border-radius: 15px !important;
   }
 
   input[type="submit"]:hover {
-    background-color: #be3f3f;
+    background-color: #22658b;
     border-radius: 15px !important;
   }
 table{
