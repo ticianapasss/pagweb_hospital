@@ -9,15 +9,19 @@ footer {
 }
 
 .redessociales {
-
-    margin: 0, 0, 0, 100px;
+    text-align: left;
+    margin-left:205px;
 }
-
 
 .margenabajo {
 
     margin: 0, 0, 100px, 0;
 
+}
+
+#margenhopital {
+
+    margin-left: 200;
 }
 
 #margengente {
@@ -36,8 +40,12 @@ footer {
 }
 
 .margen4 {
-    margin-bottom: 100px;
-    margin-left: 10px;
+    margin-left: 25px;
+}
+
+.margen5 {
+
+    margin-left: 200px;
 }
 
 .margenpolitica {
