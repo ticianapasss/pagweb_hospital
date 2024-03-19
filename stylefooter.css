@@ -9,16 +9,10 @@ footer {
 }
 
 .redessociales {
-
-    margin: 0, 0, 0, 100px;
+    text-align: left;
+    margin-left: 160px;
 }
 
-
-.margenabajo {
-
-    margin: 0, 0, 100px, 0;
-
-}
 
 #margengente {
     margin-left: 700px;
@@ -31,17 +25,12 @@ footer {
 
 }
 
-.root {
-    margin-bottom: 40px (--marbot);
-}
-
 .margen4 {
-    margin-bottom: 100px;
-    margin-left: 10px;
+    margin-top: 20px;
+    margin-left: 100px;
 }
 
-.margenpolitica {
-margin-bottom: 25px;
-margin-left: 20px;
-
+.margen5 {
+    margin-right: 150px;
+    margin-left: 150px;
 }
