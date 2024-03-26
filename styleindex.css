@@ -15,7 +15,5 @@ main{
 button{
     border-radius: 12px;
     text-decoration: black;
- }
- h1{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 1cm;
  }
