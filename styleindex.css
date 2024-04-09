@@ -1,18 +1,21 @@
-body{
-    background-color: #c4dafa;
-}
-
 
 header {
-    background-color: #86d4f3;
+    background-color: #539E8C;
     color: #fff;
-    padding: 20px;
+    padding: 40px;
     text-align:center;
+    margin-top: auto;
 }
 main{
     padding: 20px;
+    background-color:#fff;
+    color: black;
+    margin: 0%;
 }
 button{
-    border-radius: 12px;
-    text-decoration: black;
+    text-decoration: #fff;
+    background-color: #77E4FA;
+    text-align: center;
+    border-radius: 10px;
+      
  }
