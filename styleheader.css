@@ -1,29 +1,20 @@
+.margengente {
+    margin-left: 700;
+}
+
 header {
-    background-color: #84ce7a
-}
+ 
+    text-align: center;
+ }
 
-body {
-<<<<<<< Updated upstream
-   background-color:  #033a7e 
-}
-
-h1 {
+ main{
     color: white;
+    text-align: center;
+ }
+a{
+    text-decoration: none;
+    text-align: right;
 }
 
-h2 {
-    color: white
 
-}
-
-p {
-    color: white
-=======
-   background-color:  #bce7b6
-}
-
-footer {
-    background-color: gray;
->>>>>>> Stashed changes
-}
 

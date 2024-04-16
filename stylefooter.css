@@ -1,0 +1,36 @@
+footer {
+    background-color: gray;
+}
+
+.mitadfooter {
+
+    background-color: #212121;
+
+}
+
+.redessociales {
+    text-align: left;
+    margin-left: 120px;
+}
+
+
+#margengente {
+    margin-left: 700px;
+    margin-bottom: 15px;
+}
+
+#margenpolitica {
+    margin-bottom: 25px;
+    margin-left: 20px;
+
+}
+
+.margen4 {
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.margen5 {
+    margin-right: 170px;
+    margin-left: 100px;
+}
