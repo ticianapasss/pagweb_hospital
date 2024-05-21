@@ -124,13 +124,12 @@ button{
     }
     
     .margen4 {
-        margin-top: 20px;
-        margin-left: 100px;
+        margin-left: 300px;
     }
     
     .margen5 {
         margin-right: 170px;
-        margin-left: 100px;
+        margin-left: -70px;
     }
     div {
         text-align: center;
