@@ -11,6 +11,7 @@ h1 {
     margin-inline-end: 0px;
     font-weight: bold;
     unicode-bidi: isolate;
+    font-family: fantasy;
 }
 h2 {
     display: block;
@@ -21,4 +22,5 @@ h2 {
     margin-inline-end: 0px;
     font-weight: bold;
     unicode-bidi: isolate;
+    font-family: sans-serif;
 }
