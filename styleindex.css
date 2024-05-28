@@ -23,14 +23,14 @@ button{
     }
     
     header {
-     
-        text-align: center;
-     }
     
-     main{
+        text-align: center;
+    }
+    
+    main{
         color: black;
         text-align: center;
-     }
+    }
     a{
         text-decoration: none;
         text-align: right;
