@@ -3,10 +3,14 @@ header {
     color: #fff;
     padding: 40px;
     text-align:center;
-    margin-top: auto;
 }
 main{
-    padding: 20px;
+  
+    background-image: url(https://laestafetaonline.com.ar/wp-content/uploads/2023/06/0000000000000000052-scaled.jpg);
+    opacity: 0.2;
+    background-size: cover;
+    background-position: center;
+    padding: 30px;
     background-color:#fff;
     color: black;
     margin: 0%;
