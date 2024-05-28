@@ -113,14 +113,19 @@ button{
     
     
     #margengente {
-        margin-left: 270px;
-        margin-bottom: 15px;
+        margin-left: 400px;
+        margin-bottom: 100px;
     }
     
     #margenpolitica {
         margin-bottom: 25px;
-        margin-left: 320px;
+        margin-left: 200px;
     
+    }
+
+    #margenargentina {
+        margin-bottom: 200px;
+        margin-left: -130px;
     }
     
     .margen4 {
