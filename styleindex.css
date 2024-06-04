@@ -170,3 +170,17 @@ button{
         font: ;
     }
 
+    #sn {
+        margin-left:20px ;
+    }
+
+    .contenedor{
+        display:flex;
+       justify-content: left;
+       align-items: center;
+    }
+
+    .txt {
+        margin-right: 200px;
+        margin-left: 50px;
+    }
