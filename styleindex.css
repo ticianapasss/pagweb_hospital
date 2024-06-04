@@ -4,10 +4,13 @@ header {
     padding: 40px;
     text-align:center;
 }
-main{
-  
+.imgmain{
     background-image: url(https://laestafetaonline.com.ar/wp-content/uploads/2023/06/0000000000000000052-scaled.jpg);
     opacity: 0.2;
+}
+main{
+  
+   
     background-size: cover;
     background-position: center;
     padding: 30px;
@@ -117,22 +120,23 @@ button{
     
     
     #margengente {
-        margin-left: 800px;
-        margin-bottom: 10px;
+        margin-left: 400px;
+        margin-bottom: 100px;
     }
     
     #margenpolitica {
-        margin-bottom: px;
-        margin-left: 10px;
+        margin-bottom: 25px;
+        margin-left: 200px;
     
     }
 
     #margenargentina {
-        margin-left: -70px;
+        margin-bottom: 200px;
+        margin-left: -130px;
     }
     
     .margen4 {
-        margin-left: 500px;
+        margin-left: 300px;
     }
     
     .margen5 {
